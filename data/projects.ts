@@ -98,14 +98,9 @@ const projects = [
     tags: [
       "System Analysis",
       "UML",
-      "Use Case Diagram",
-      "Activity Diagram",
-      "Class Diagram",
-      "User Flow",
       "Vue.js",
       "Spring Boot",
       "RBAC",
-      "Axios",
       "Reusable Component",
       "Frontend",
       "Backend",
@@ -130,10 +125,9 @@ const projects = [
       "Customer Insight",
       "KPI Analysis",
       "Paid Media",
-      "Marketing Analytics",
     ],
     links: {
-      docs: "",
+      docs: "https://canva.link/1ok54a91yvbsijf",
     },
   },
 
@@ -150,18 +144,17 @@ const projects = [
       "Attribution Analysis",
       "ROAS",
       "Campaign Optimization",
-      "Digital Strategy",
     ],
     links: {
-      docs: "",
+      docs: "https://canva.link/fx57dkvc7isnbkn",
     },
   },
 
   {
-    title: "Spotify Music Trends Dashboard Analysis",
+    title: "Beauty & Cosmetics Sales Analysis Dashboard",
     category: "Academic Project | Business Intelligence Course",
     description:
-      "Performed data cleaning, transformation, and preprocessing using Power Query on Spotify datasets containing artist, album, and track information. Developed interactive Power BI dashboards to analyze music trends, artist popularity, album distribution, and track performance over time. Applied DAX functions such as IF, FILTER, DATEADD, RANKX, and SUMX to generate calculated metrics and business insights. The dashboard featured drill-down analysis, slicers, and dynamic filtering to improve usability and data exploration.",
+      "Performed data cleaning, transformation, and preprocessing using Power Query on beauty and cosmetics transactional datasets. Developed interactive Power BI dashboards to analyze sales trends, brand performance, regional distribution, and product category popularity over time. Applied DAX functions such as IF, FILTER, DATEADD, RANKX, and SUMX to generate calculated business metrics. Designed the dashboard with dynamic slicers, filtering, and drill-down analysis to uncover revenue-driving opportunities.",
     tags: [
       "Power BI",
       "Business Intelligence",
@@ -170,10 +163,29 @@ const projects = [
       "DAX",
       "Dashboard Design",
       "Data Visualization",
-      "Spotify Dataset",
+      "Sales Analysis",
     ],
     links: {
-      docs: "",
+      docs: "https://drive.google.com/drive/folders/17gsLjIUFfKpngmKKqnuqdNY5k-_oXTlK?usp=drive_link",
+    },
+  },
+
+  {
+    title: "Marketing Performance Analysis – Urban Craft Mobile Game",
+    category: "Academic Project | Digital Media Marketing",
+    description:
+      "Analyzed comprehensive campaign performance using funnel metrics, cohort retention, and data-driven user segmentation. Evaluated multi-channel influencer marketing campaigns through the 3R framework (Reach, Relevance, and Resonance). Identified critical user archetypes, pinpointing the 18–24 cohort as primary acquisition drivers and the 25–34 cohort as high-value core users. Proposed strategic optimization plans based on Google Analytics, Play Store, and engagement metrics to drive play rate and in-game revenue improvements.",
+    tags: [
+      "Marketing Analytics",
+      "Google Analytics",
+      "User Segmentation",
+      "Cohort Retention",
+      "3R Framework",
+      "Funnel Analysis",
+      "App Marketing",
+    ],
+    links: {
+      docs: "https://drive.google.com/drive/folders/1g4d2bT5JAOwmvASFIUZyBhN45I1qRAmC?usp=sharing",
     },
   },
 ];
